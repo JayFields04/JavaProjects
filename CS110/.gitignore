@@ -1,0 +1,7 @@
+/.metadata/
+*/.classpath
+*/.project
+*/settings
+HelloWorld/.settings/org.eclipse.jdt.core.prefs
+SimpleCalculator/.settings/org.eclipse.jdt.core.prefs
+*.prefs
