@@ -20,5 +20,3 @@ This is where I will store all my Java related files and projects.
  1. DewPoint
  2. CarAndCircle
  3. DrawSnowman
-
-## CS111 Files
